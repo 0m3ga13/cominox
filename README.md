@@ -1,8 +1,8 @@
 # 0m3ga13.github.io
-an interactive responsive website created by vue and tailwind.
+a MEVN interactive responsive website 
 
 
-<h5>this website was created using: vue and tailwind</h5>
+<h5>this website was created using: vue and tailwind for front end</h5>
 <p> it contains several pages:
 
 <li> proudcts </li>
