@@ -1,0 +1,22 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+
+@layer base {
+     h2 p {
+        font-family: 'Montserrat', sans-serif;
+        font-family: 'Roboto', sans-serif;   }
+        body {
+          background: url(/src/assets/background.png) no-repeat center;
+          background-size: cover;
+        }
+        .navigationbar {
+          background: url(/src/assets/background.png) no-repeat ;
+          background-size: cover;
+        }
+          
+  }
